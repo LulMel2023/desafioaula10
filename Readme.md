@@ -1,0 +1,1 @@
+O desafio foi criarmos um site responsivo, támbem inserir vídeos do youtube, ter efeito de zoom nos ícones, efeito suave de entrada e saída e inserir 4 botões nos articles.
